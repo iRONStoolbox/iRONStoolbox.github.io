@@ -10,4 +10,4 @@ Alternatively, email Andres Peñuela (<apenuela@uco.es>) or Francesca Pianosi (<
 
 &nbsp;
 
-[<img src="https://github.com/iRONStoolbox/iRONStoolbox/blob/master/iRONS/util/images/iRONS_logo_6.png" alt="iRONS logo" style="width:60%;" >](./index.md/)
+[<img src="iRONS_logo_6.png" alt="iRONS logo" style="width:60%;" >](./index.md/)
