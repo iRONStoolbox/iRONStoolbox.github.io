@@ -17,8 +17,6 @@ Python package that enables the simulation, forecasting and optimisation of rese
 [Recursive decisions and multiobjective optimisation](https://mybinder.org/v2/gh/AndresPenuela/iRONS/HEAD?urlpath=notebooks/iRONS/Notebooks/A%20-%20Knowledge%20transfer/3.a.%20Recursive%20decisions%20and%20multi-objective%20optimisation.ipynb)
 
 ## Contents:
-- [Github repository](https://github.com/iRONStoolbox/iRONStoolbox)
-
 - [KT Notebooks](KT_Notebooks.md/)
 
 - [Contact](contact.md/)
