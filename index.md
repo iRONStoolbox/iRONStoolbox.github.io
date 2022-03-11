@@ -16,11 +16,6 @@ Python package that enables the simulation, forecasting and optimisation of rese
   
 [Recursive decisions and multiobjective optimisation](https://mybinder.org/v2/gh/AndresPenuela/iRONS/HEAD?urlpath=notebooks/iRONS/Notebooks/A%20-%20Knowledge%20transfer/3.a.%20Recursive%20decisions%20and%20multi-objective%20optimisation.ipynb)
 
-## Contents:
-- [KT Notebooks](KT_Notebooks.md/)
-
-- [Contact](contact.md/)
-
 **The core functions**
 
 The iRONS package provides a set of Python functions implementing typical reservoir modelling tasks, such as: estimating inflows to a reservoir, simulating operator decisions, closing the reservoir mass balance equation – in the context of both short-term forecasting and long-term predictions.
