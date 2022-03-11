@@ -5,7 +5,7 @@ nav: true
 
 <left> <img src="iRONS_logo_6.png" width = "300px"><left>
 
-The iRONS Knowledge Transfer (KT) Notebooks is a set of simple examples to demonstrate the value of simulation and optimisation tools for reservoir operations by application to ‘proof-of-concept’ systems. 
+The **iRONS Knowledge Transfer (KT) Notebooks** is a set of simple examples to demonstrate the value of simulation and optimisation tools for reservoir operations by application to ‘proof-of-concept’ systems. 
 
 This is list all the Notebooks that are currently included in iRONS including their description and links to run them online:
 
