@@ -1,3 +1,9 @@
+---
+nav: false
+---
+
+[<img src="https://github.com/iRONStoolbox/iRONStoolbox/blob/master/iRONS/util/images/iRONS_logo_6.png" alt="iRONS logo" style="width:60%;" >](./index.md/)
+
 ## iRONS (interactive Reservoir Operation Notebooks and Software)
 
 **Go to Github repository:** [iRONS](https://github.com/iRONStoolbox/iRONStoolbox)
@@ -9,6 +15,13 @@ Python package that enables the simulation, forecasting and optimisation of rese
 [Calibration and evaluation of a rainfall runoff model](https://mybinder.org/v2/gh/AndresPenuela/iRONS/HEAD?urlpath=notebooks/iRONS/Notebooks/A%20-%20Knowledge%20transfer/2.a.%20Calibration%20and%20evaluation%20of%20a%20rainfall-runoff%20model.ipynb)
   
 [Recursive decisions and multiobjective optimisation](https://mybinder.org/v2/gh/AndresPenuela/iRONS/HEAD?urlpath=notebooks/iRONS/Notebooks/A%20-%20Knowledge%20transfer/3.a.%20Recursive%20decisions%20and%20multi-objective%20optimisation.ipynb)
+
+## Contents:
+- [Github repository](https://github.com/iRONStoolbox/iRONStoolbox)
+
+- [KT Notebooks](KT_Notebooks.md/)
+
+- [Contact](contact.md/)
 
 **The core functions**
 
@@ -42,3 +55,8 @@ This project was funded by the Engineering and Physical Sciences Research Counci
 
 ### License
 Copyright (C) 2021 Andres Peñuela and Francesca Pianosi. iRONS is released under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+&nbsp;
+<div class="row">
+  <img src="images/logo-full-colour.png" alt="Uni logo" style="width:20%;" hspace="20"> <img src="images/SDSUprimary3Crgb.png" alt="Uni logo" style="width:20%;" hspace="0"> 
+<div >
