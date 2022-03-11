@@ -58,5 +58,5 @@ Copyright (C) 2021 Andres Peñuela and Francesca Pianosi. iRONS is released unde
 
 &nbsp;
 <div class="row">
-  <img src="images/logo-full-colour.png" alt="Uni logo" style="width:20%;" hspace="20"> <img src="images/SDSUprimary3Crgb.png" alt="Uni logo" style="width:20%;" hspace="0"> 
+  <img src="logo-full-colour.png" alt="Uni logo" style="width:20%;" hspace="00">
 <div >
