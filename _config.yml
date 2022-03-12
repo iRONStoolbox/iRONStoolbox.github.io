@@ -50,7 +50,7 @@ header_pages:
  - index.md
  - KT_Notebooks.md
  - Implementation_Notebooks.md
- - Install
+ - Install.md
  - contact.md
 
 # Build settings
