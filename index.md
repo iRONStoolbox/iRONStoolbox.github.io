@@ -14,8 +14,6 @@ The iRONS Software is a set of Python functions implementing typical reservoir m
 
 You can download the functions from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Software/)
 
-To install the iRONS Software locally: `pip install irons`
-
 ### iRONS Notebooks
 
 The package includes a set of interactive Jupyter Notebooks that demonstrate key functionalities through practical examples, and that can be run in the Jupyter environment either locally or remotely via a web browser.
@@ -28,6 +26,10 @@ The notebooks included in iRONS are divided in two sections:
 You can download the Notebooks from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Software/)
 
 The iRONS Notebooks can be run on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser without requiring the installation of Python. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
+
+### Install iRONS locally ###
+
+To install iRONS on your computer: [Install iRONS](./Install.md/)
 
 ### Github repository ###
 
