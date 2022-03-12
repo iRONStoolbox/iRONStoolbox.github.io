@@ -49,6 +49,8 @@ minima:
 header_pages:
  - index.md
  - KT_Notebooks.md
+ - Implementation_Notebooks.md
+ - Install
  - contact.md
 
 # Build settings
