@@ -61,7 +61,7 @@ jupyter labextension install @jupyterlab/plotly-extension # install the Jupyter 
 ```
 ## Testing
 
-The easiest way to test if the current version of iRONS is working is to check that the icon below shows "build passing"
+The easiest way to test if the current version of iRONS is working is to check that this icon shows "build passing"
 [![Build status](https://travis-ci.org/AndresPenuela/iRONS.svg?branch=master)](https://travis-ci.org/AndresPenuela/iRONS)
 
 If you have downloaded iRONS and you are using it locally you can run manually the test functions. First you need to install `pytest`. For that purpose open the Anaconda Prompt and then run:
