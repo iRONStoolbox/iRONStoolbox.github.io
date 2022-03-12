@@ -25,7 +25,7 @@ The notebooks included in iRONS are divided in two sections:
 
 **B.	[Implementation Notebooks](./Implementation_Notebooks.md/):** A set of workflow examples showing how to apply the iRONS functions to more complex problems such as: generating inflow forecasts through a rainfall-runoff model (including bias correcting weather forecasts); optimising release scheduling against an inflow scenario or a forecast ensemble; optimising an operating policy against time series of historical or synthetic inflows.
 
-You can download the Notebooks from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Notebooks/)
+You can download the Notebooks from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Software/)
 
 The iRONS Notebooks can be run on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser without requiring the installation of Python. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
 
