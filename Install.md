@@ -3,7 +3,7 @@ title: Install
 nav: true
 ---
 
-[<img src="iRONS_logo_6.png" alt="iRONS logo" style="width:30%;" >](./index.md/)
+[<img src="iRONS_logo_6.png" alt="iRONS logo" style="width:30%;" >](./Install.md/)
 
 ## Installing iRONS locally
 
@@ -23,7 +23,8 @@ Open the Anaconda Prompt from the Windows menu (or a OS Terminal in Mac and Linu
 ```
 conda update conda
 ```
-<right> <img src="Executing Anaconda Prompt and Conda.gif" width = "800px"><right>
+
+[<img src="Executing Anaconda Prompt and Conda.gif" alt="Executing Anaconda Prompt and Conda" style="width:80%;" >](./Install.md/)
 
 To download iRONS you can either click on Clone button that you will find in the iRONS Github repository or you can run this on the Anaconda Prompt:
 ```
