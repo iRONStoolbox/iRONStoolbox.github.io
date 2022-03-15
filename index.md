@@ -12,7 +12,7 @@ iRONS is a Python package that enables the simulation, forecasting and optimisat
 
 The iRONS Software is a set of Python functions implementing typical reservoir modelling tasks, such as: estimating inflows to a reservoir, simulating operator decisions, closing the reservoir mass balance equation – in the context of both short-term forecasting and long-term predictions.
 
-You can download the functions from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Software/)
+You can download the functions from the iRONS Github repository: [iRONS Software](https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/Software/)
 
 ### iRONS Notebooks
 
@@ -23,7 +23,7 @@ The notebooks included in iRONS are divided in two sections:
 
 **B.	[Implementation Notebooks](./Implementation_Notebooks.md/):** A set of workflow examples showing how to apply the iRONS functions to more complex problems such as: generating inflow forecasts through a rainfall-runoff model (including bias correcting weather forecasts); optimising release scheduling against an inflow scenario or a forecast ensemble; optimising an operating policy against time series of historical or synthetic inflows.
 
-You can download the Notebooks from the iRONS Github repository: [iRONS Notebooks](https://github.com/iRONStoolbox/iRONStoolbox/iRONS/Notebooks/)
+You can download the Notebooks from the iRONS Github repository: [iRONS Notebooks](https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/Notebooks/)
 
 The iRONS Notebooks can be run on the cloud by using Binder (https://mybinder.org/), so that they are accessible by a web browser without requiring the installation of Python. Just click [here](https://mybinder.org/v2/gh/iRONStoolbox/iRONStoolbox/HEAD?urlpath=%2Fnotebooks%2FiRONS/Notebooks)
 
