@@ -6,7 +6,7 @@ nav: false
 
 ## iRONS (interactive Reservoir Operation Notebooks and Software)
 
-iRONS is a Python package that enables the simulation, forecasting and optimisation of reservoir systems. iRONS provides a set of Python functions (iRONS Software) implementing typical reservoir modelling task and a set of interactive Jupyter Notebooks (iRONS Notebooks) that demonstrate key functionalities through practical examples
+iRONS is a Python package that enables the simulation, forecasting and optimisation of reservoir systems. iRONS provides a set of Python functions (iRONS Software) implementing typical reservoir modelling task and a set of interactive Jupyter Notebooks (iRONS Notebooks) that demonstrate key functionalities through practical examples (Peñuela et al. 2021).
 
 ### iRONS Software
 
